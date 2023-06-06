@@ -1,2 +1,2 @@
 config:
-  application: "main branch,springcloud-config/config-dev.yaml, version=2.0"
+  application: "main branch,springcloud-config/config-dev.yaml, version=3.0"
